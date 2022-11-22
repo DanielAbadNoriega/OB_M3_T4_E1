@@ -1,0 +1,15 @@
+{
+  "name": "ob_m3_t4_e1",
+  "version": "1.0.0",
+  "description": "Open Bootcamp, modulo 3, tema 4, ejercicio 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Daniel Abad Noriega",
+  "license": "ISC"
+}
